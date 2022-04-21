@@ -1,5 +1,7 @@
 # Jekyll Starter
 
+[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/PriscillaLeon/ubiquitous-fortnight)
+
 > Starting point for Jekyll sites using [Tailwind CSS](https://tailwindcss.com/)
 and [Alpine.js](https://github.com/alpinejs/alpine/).
 
